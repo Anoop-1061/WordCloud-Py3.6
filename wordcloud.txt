@@ -1,0 +1,26 @@
+"""The subject of Sex is difficult to deal with. There is no doubt a
+natural reticence connected with it. There is also a great deal of
+prudery. The passion occupies, without being spoken of, a large part of
+human thought; and words on the subject being so few and inadequate,
+everything that is said is liable to be misunderstood. Violent
+inferences are made and equivocations surmised, from the simplest
+remarks; qualified admissions of liberty are interpreted into
+recommendations of unbridled license; and generally the perspective of
+literary expression is turned upside down.
+
+There is in fact a vast deal of fetishism in the current treatment of
+the question. Nor can one altogether be surprised at this when one sees
+how important Sex is in the scheme of things, and how deeply it has been
+associated since the earliest times not only with man’s personal
+impulses but even with his religious sentiments and ceremonials.
+
+Next to hunger it is doubtless the most primitive and imperative of our
+needs. But in modern civilized life Sex enters probably even more into
+consciousness than hunger. For the hunger-needs of the human race are in
+the later societies fairly well satisfied, but the sex-desires are
+strongly restrained, both by law and custom, from satisfaction—and so
+assert themselves all the more in thought.
+
+To find the place of these desires, their utterance, their control,
+their personal import, their social import, is a tremendous problem to
+every youth and girl, man and woman."""
